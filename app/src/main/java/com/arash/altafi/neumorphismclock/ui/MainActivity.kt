@@ -1,4 +1,4 @@
-package com.arash.altafi.neumorphismclock
+package com.arash.altafi.neumorphismclock.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
